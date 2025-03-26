@@ -1,8 +1,8 @@
 {
-    "name": "crassula/assetic-bundle",
+    "name": "netresultsit/assetic-bundle",
     "description": "Integrates Assetic into Symfony2",
     "keywords": ["assets", "compression", "minification"],
-    "homepage": "https://github.com/crassula/assetic-bundle",
+    "homepage": "https://github.com/NetResultsIT/assetic-bundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
